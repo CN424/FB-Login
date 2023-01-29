@@ -1,0 +1,17 @@
+nav{
+	background-color: blue;
+	padding: 10px;
+}
+
+.logo{
+	float: left;
+}
+
+.label-pass{
+	float: right;
+}
+
+.label-email{
+	float: right;
+	margin-right: 50px;
+}
